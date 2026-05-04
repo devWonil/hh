@@ -1,0 +1,10 @@
+{
+    "info_font_size": 60,
+    "name_font_size": 60,
+    "pose_user_name": [1470, 30],
+    "rect_user_photo": [1701, 11, 173, 174],
+    "pose_scenario_tooltip": [1470, 170],
+    "pose_scenario_runtime": [1710, 170],
+    "pose_step_tooltip": [1470, 250],
+    "pose_step_runtime": [1710, 250]
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Middle",
+        "background": ["images/background.png"],
+        "buttons": [
+            {
+                "name": "next",
+                "bbox": [42, 21.88, 16, 12.5],
+                "timer": 2000,
+                "completion_event": "press_button",
+                "press_up_image": "images/next_up.png",
+                "press_down_image": "images/next_down.png",
+                "handle_grasp": true
+            }
+        ],
+        "completion_events": ["press_button"]
+    },
+    {
+        "name": "Top Left",
+        "background": ["images/background.png"],
+        "buttons": [
+            {
+                "name": "next",
+                "bbox": [2.99, 2.73, 16, 12.5],
+                "timer": 2000,
+                "completion_event": "press_button",
+                "press_up_image": "images/next_up.png",
+                "press_down_image": "images/next_down.png",
+                "handle_grasp": true
+            }
+        ],
+        "completion_events": ["press_button"]
+    },
+    {
+        "name": "Bottom Left",
+        "background": ["images/background.png"],
+        "buttons": [
+            {
+                "name": "next",
+                "bbox": [2.99, 41.02, 16, 12.5],
+                "timer": 2000,
+                "completion_event": "press_button",
+                "press_up_image": "images/next_up.png",
+                "press_down_image": "images/next_down.png",
+                "handle_grasp": true
+            }
+        ],
+        "completion_events": ["press_button"]
+    },
+    {
+        "name": "Top Right",
+        "background": ["images/background.png"],
+        "buttons": [
+            {
+                "name": "next",
+                "bbox": [81.01, 2.73, 16, 12.5],
+                "timer": 2000,
+                "completion_event": "press_button",
+                "press_up_image": "images/next_up.png",
+                "press_down_image": "images/next_down.png",
+                "handle_grasp": true
+            }
+        ],
+        "completion_events": ["press_button"]
+    },
+    {
+        "name": "5. Bottom Right",
+        "background": ["images/background.png"],
+        "buttons": [
+            {
+                "name": "next",
+                "bbox": [81.01, 41.02, 16, 12.5],
+                "timer": 2000,
+                "completion_event": "press_button",
+                "press_up_image": "images/next_up.png",
+                "press_down_image": "images/next_down.png",
+                "handle_grasp": true
+            }
+        ],
+        "completion_events": ["press_button"]
+    }
+]

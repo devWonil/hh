@@ -1,0 +1,12 @@
+__pycache__/
+/config.py
+example/
+/records
+/docs
+/logs
+/calibration_matrix.npy
+/distortion_coefficients.npy
+*.lprof
+/.cache
+models/hand_landmarker.task
+/.vscode
